@@ -1,2 +1,1 @@
-My 0x03-git directory
-my updated README.md
+My 0x03-git directory UPDATED
